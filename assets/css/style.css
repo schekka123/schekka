@@ -1025,7 +1025,7 @@ a:hover {
 # Contact
 --------------------------------------------------------------*/
 .footer-paralax {
-  padding: 4rem 2rem 0 0;
+  padding: 4rem 0 0 0;
 }
 
 .contact-mf {
@@ -1035,8 +1035,9 @@ a:hover {
 @media (min-width: 767px) {
   .contact-mf .box-pl2 {
     margin-top: 3rem;
-    padding-left: 0rem;
-    padding-right: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
   }
 }
 
