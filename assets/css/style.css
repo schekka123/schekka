@@ -396,7 +396,7 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #e96989;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -513,26 +513,26 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #f8c8dc;
+  color: #e96989;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #f8c8dc;
+  background-color: #e96989;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #f8c8dc;
+  color: #e96989;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #f8c8dc;
+  color: #e96989;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #f8c8dc;
+  color: #e96989;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -563,13 +563,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #f8c8dc;
+  background-color: #e96989;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #f8c8dc;
+  background-color: #e96989;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -1113,7 +1113,7 @@ a:hover {
 }
 
 .php-email-form button[type="submit"]:hover {
-  background: #3393ff;
+  background: #e96989;
 }
 
 @-webkit-keyframes animate-loading {
