@@ -206,14 +206,14 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #f8c8dc;
+  box-shadow: 0 0 0 3px #e96989;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #f8c8dc;
+  background-color: #e96989;
   color: #fff;
-  box-shadow: 0 0 0 3px #f8c8dc;
+  box-shadow: 0 0 0 3px #e96989;
   transition: all 500ms ease;
 }
 
@@ -761,8 +761,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #f8c8dc;
-  box-shadow: 0 0 0 10px #f8c8dc;
+  background-color: #e96989;
+  box-shadow: 0 0 0 10px #e96989;
 }
 
 .service-box .service-ico {
@@ -808,7 +808,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #f8c8dc;
+  box-shadow: 0 0 0 10px #e96989;
 }
 
 .counter-num .counter {
